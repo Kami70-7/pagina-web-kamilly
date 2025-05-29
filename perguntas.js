@@ -23,7 +23,7 @@ criaCartão(
 )
 
 criaCartão(
-    'Biologia'
+    'Biologia',
     'Qual é a cor da clorofia?',
     'A cor é verde'
 )
@@ -35,7 +35,7 @@ criaCartão(
 )
 
 criaCartão(
-    'Língua portuguesa'
+    'Língua portuguesa',
     'Qual é o antônimo de bom?',
     'O antõnimo é mau'
 )

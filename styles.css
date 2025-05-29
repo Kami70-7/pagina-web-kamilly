@@ -58,7 +58,7 @@ body {
 }
 
 .cartao__conteudo__resposta p {
-    color: var(--card-back-color);
+    color: rgba(red);
     font-weight: 700;
 }
 
@@ -98,9 +98,6 @@ footer p {
 
 @media (max-width: 560px) {
 
-<<<<<<< HEAD
-}
-=======
     body {
         background: url('img/bg-mobile.webp');
         background: url('img/bg-mobile.webp'), no-repeat cover;
@@ -118,4 +115,3 @@ footer p {
         font-size: 3.8vw;
     }
 }
->>>>>>> refs/remotes/origin/main

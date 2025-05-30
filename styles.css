@@ -1,11 +1,11 @@
 :root {
     --text-color: #ffffffaf;
-    --card-front-color: #e9e50d;
-    --card-back-color: #dee06c69;
+    --card-front-color: #3a8b33;
+    --card-back-color: #e1e2a469;
 }
 
 body {
-    background-color: yellow;
+    background-color: rgb(204, 204, 141);
     font-family: Bai Jamjuree;
 }
 
@@ -58,7 +58,7 @@ body {
 }
 
 .cartao__conteudo__resposta p {
-    color: rgba(red);
+    color: rgba(rgb(199, 115, 115));
     font-weight: 700;
 }
 
@@ -82,7 +82,7 @@ body {
 }
 
 footer {
-    background-color: #ffffffff;
+    background-color: rgb(163, 145, 145);
     color: rgb(0, 0, 0);
     position: fixed;
     bottom: 0;

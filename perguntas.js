@@ -1,6 +1,6 @@
 criaCartao(
     'Geografia',
-    'Qual é o maior oceano so mundo?',
+    'Qual é o maior oceano do mundo?',
     'O maior Oceano é o Oceano Pacífico'
 )
 
@@ -37,7 +37,7 @@ criaCartao(
 criaCartao(
     'Língua portuguesa',
     'Qual é o antônimo de bom?',
-    'O antõnimo é mau'
+    'O antônimo é mau'
 )
 
 criaCartao(
@@ -49,5 +49,5 @@ criaCartao(
 criaCartao(
     'Espanhol',
     'Como diz olá em espanhol?',
-    'Oi em espanhol é HOLA'
+    'Olá em espanhol é HOLA'
 )

@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'História',
     'Quem descobriu o Brasil?',
-    'Pedro Álvares Cabral'
+    'Ninguém. Já haviam habitantes antes da colonização'
 )
 
 criaCartao(

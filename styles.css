@@ -22,6 +22,7 @@ body {
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
+    border-radius: 7px
 }
 
 .cartao__conteudo {
@@ -31,6 +32,7 @@ body {
     height: 100%;
     transform-style: preserve-3d;
     transition: transform 300ms ease-in-out;
+    border-radius: 7px
 }
 
 .cartao__conteudo h3 {
@@ -40,9 +42,10 @@ body {
     padding: 0.5rem;
     position: absolute;
     margin: 0.6rem;
-    border-radius: 0.6rem;
+    border-radius: 1rem;
     font-size: 1vw;
     backface-visibility: hidden;
+    border-radius: 7px
 }
 
 .cartao__conteudo p {
@@ -50,16 +53,19 @@ body {
     padding: 2rem;
     margin-top: 4rem;
     font-size: 1.4vw;
+    border-radius: 7px
 }
 
 .cartao__conteudo__pergunta p {
     color: var(--text-color);
     font-weight: 500;
+    border-radius: 7px
 }
 
 .cartao__conteudo__resposta p {
     color: rgba(rgb(219, 228, 226));
     font-weight: 700;
+    border-radius: 7px
 }
 
 .cartao.active .cartao__conteudo {

@@ -12,7 +12,7 @@ criaCartao(
 
 criaCartao(
     'Educaçao física',
-    'Qual é o único jogador de futebol que pode pegar a bola com a mao?',
+    'Qual é o único jogador de futebol que pode pegar a bola com a mão?',
     'É o goleiro'
 )
 
